@@ -13,4 +13,4 @@ var img = document.getElementById('madi');
 img.onclick = func(){
     img.style.marginLeft = '100px';
     
-}
+};
