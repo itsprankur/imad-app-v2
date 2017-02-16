@@ -10,7 +10,8 @@ element.innerHTML = 'This is a web page made by Prankur Chauhan';
 
 var img = document.getElementById('madi');
 
-img.onclick = function (){
+img.onclick = function ()
+{
     img.style.marginLeft = '100px';
     
 };
